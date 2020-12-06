@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "322523847431",
+    "firebase_url": "https://linux-controller-d5dc5.firebaseio.com",
+    "project_id": "linux-controller-d5dc5",
+    "storage_bucket": "linux-controller-d5dc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322523847431:android:2b85d50c0892cc4cdb83a2",
+        "android_client_info": {
+          "package_name": "com.example.linux_controller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322523847431-75rjsjdfmfcnjbmji9jnq46glouandtk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEvfT8VJSX0h813rhya2WlvuxMb18RsuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322523847431-75rjsjdfmfcnjbmji9jnq46glouandtk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
